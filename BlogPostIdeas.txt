@@ -1,0 +1,18 @@
+[1] Getting started with Git and GitHub [Done]
+[2] Installing packaged on Ubuntu. sudo apt-get install <selected package>
+[3] GitHub Part 2. Working with branches.  Removing and adding files.
+[4] GitHub Part 3. Merging, cherrypicking, reverting.
+[5] GitHub Part 4. Getting social. Cloning someone elses repo and doing something usefull. 
+[6] whats inside .git
+
+
+
+
+
+
+
+[Misc]
+can you clone a branch? When you clone which branch are you cloning.
+how does git diff work, what does it compare to get the diff?
+cannot check in code because  I forgot my passphrase.  What now?
+
